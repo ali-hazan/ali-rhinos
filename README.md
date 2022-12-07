@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on frontend (Vuejs)
 - 🌱 I’m currently learning algorad blockchain
 - 👯 I’m looking to collaborate on vue3/python projcts 
 - 🤔 I’m looking for help with frontend related task
