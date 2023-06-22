@@ -2,6 +2,9 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
+        .ContributionCalendar-day{
+          background-color : red !important;
+        }
         @keyframes hi  {
             0% { transform: rotate( 0.0deg) }
            10% { transform: rotate(14.0deg) }
